@@ -1,0 +1,17 @@
+#tokens
+*.env
+
+# specific files
+# computer-vision/SOTA_Facial_Recognition_Models_Report.xlsx
+
+# folder
+computer-vision
+genai
+nlp
+
+# data
+*.jpeg
+
+*.png
+ml/donors-choose/data
+ml/human-activity-recognition/data
