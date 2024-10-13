@@ -3,6 +3,7 @@
 
 # specific files
 # computer-vision/SOTA_Facial_Recognition_Models_Report.xlsx
+.DS_Store
 
 # folder
 computer-vision
